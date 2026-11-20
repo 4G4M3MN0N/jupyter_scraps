@@ -1,0 +1,18 @@
+# Editors / IDEs
+.idea/
+*.iml
+.vscode/
+.metals/
+.bloop/
+.bsp/
+.scala-build/
+metals.sbt
+
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
